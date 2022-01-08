@@ -24,6 +24,7 @@ go build
 ./store-management-app
 
 # API Endpoint : http://127.0.0.1:9010
+
 Structure
 ├── app
 │   ├── cmd
@@ -44,6 +45,7 @@ Structure
 /stores
 * GET : Get all stores
 * POST : Create a new store
+
 /stores/:storeId
 * GET : Get a project
 * PUT : Update a project
