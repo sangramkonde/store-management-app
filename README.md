@@ -25,21 +25,8 @@ go build
 
 # API Endpoint : http://127.0.0.1:9010
 
-Structure
-├── app
-│   ├── cmd
-|   |   ├── main.go
-│   ├── pkg          // Our API core handlers
-│   │   ├──config
-|   |   |    |──app.go    // Common response functions
-│   │   ├──controllers
-|   |   |    |──store-controller.go  // APIs for Project model
-│   │   └──models 
-|   |   |    |──tasks.go
-|   |   |──routes // APIs for Task model
-│   |   |     |──store-routes.go
-│   |   └── utils
-|   |   |     |──utils.go
+# Structure
+
 
 # API
 /stores
