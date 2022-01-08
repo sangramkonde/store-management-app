@@ -41,9 +41,9 @@ go build
 
 # TODO
 
- Authentication with user for securing the APIs.
- Database Config
- Write the tests for all APIs.
- Organize the code with packages
- Make docs with GoDoc
- Building a deployment process
+ * Authentication with user for securing the APIs.
+ * Database Config
+ * Write the tests for all APIs.
+ * Organize the code with packages
+ * Make docs with GoDoc
+ * Building a deployment process
